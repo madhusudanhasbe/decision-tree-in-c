@@ -1,8 +1,16 @@
 # Implementation of Decision Tree in C language
 
-### Introduction
-A decision tree is a flowchart-like tree structure where each internal node denotes the feature, branches denote the rules, and the leaf nodes denote the result of the algorithm. \
-This project aims to implement a decision tree to assess scholarship eligibility. The project introduces a user-friendly decision tree implementation for scholarship eligibility, by developing a customizable decision tree structure, enhancing the flexibility to adapt eligibility criteria to their specific requirements. Additionally, the program facilitates checking of past result analysis and allows processing of it.
+A decision tree is a flowchart-like tree structure where each internal node denotes the feature, branches denote the rules, and the leaf nodes denote the result of the algorithm.
+
+### Objectives
+- This project aims to implement a decision tree to assess scholarship eligibility.
+- The project introduces a user-friendly decision tree implementation for scholarship eligibility, by developing a customizable decision tree structure, enhancing the flexibility to adapt eligibility criteria to their specific requirements.
+- Additionally, the program facilitates checking of past result analysis and allows processing of it.
+
+### Requirements
+- The project does not have specific hardware requirements beyond what is typically found in a standard PC.
+- The project was implemented using the C programming language and compiled using GCC (GNU Compiler Collection).
+- Notepad is used as a text editor file for the log file.
 
 ### Methodology of Implementation
 1. Decision Tree Construction:
